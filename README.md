@@ -30,7 +30,7 @@ del vector por su norma<br/>
 * mutiplicamos delta cuadrada con phi<br/>
 * y por ultimo hacemos producto interno de matrices entre el resultado anterior y phi<br/>
 
-# Prerequisitos
+# Prerrequisitos
 Numeros Complejos<br/>
 Sumar<br/>
 Restar<br/>
