@@ -1,5 +1,11 @@
 # Escuela Colombiana de ingenieria
 # Ciencias naturales y tecnologia                 23/10/2019
+#Sistema cuantico de particula en una linea
+
+mvn exec:java -Dexec.mainClass="edu.escuelaing.cnyt.app.Calculator"
+
+mvn package
+
 Calculadora cuantica<br/>
 En este proyecto contiene los nuevos metodos de particula en una recta y calculadora estadistica para observables<br/>
 estos se encuentra en la clase calculator en la linea 235 y 258 respectivamente<br/>
